@@ -79,6 +79,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia.png"
                             className="trivia-app-image"
+                            alt="site de trivia que possui botões de login e registro e uma logo escrito trivia master"
                         />
                         <h4>
                             Aplicação web com autenticação com JWT que consome
@@ -92,6 +93,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia-tecnologias.png"
                             className="trivia-app-tecnologias"
+                            alt="logos do react, redux, mongodb, node e express"
                         />
                         <div className="trivia-app-btn">
                             <a
@@ -117,6 +119,7 @@ export default function Portfolio() {
                         <img
                             src="images/blog.png"
                             className="trivia-app-image"
+                            alt="site de blog que tem fundo preto com um vetor verde que parte a imagem no meio e botões de login e registro"
                         />
                         <h4>
                             Aplicação web com autenticação com JWT onde usuários
@@ -134,6 +137,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia-tecnologias.png"
                             className="trivia-app-tecnologias"
+                            alt="logos do react, redux, mongodb, node e express"
                         />
                         <div className="trivia-app-btn">
                             <a
@@ -160,6 +164,7 @@ export default function Portfolio() {
                         <img
                             src="images/daviabrigade.png"
                             className="trivia-app-image"
+                            alt="site de publicidade que no fundo possui foto de varias pessoas em mesa de reunião com a legenda na frente de Davia e Brigade."
                         />
                         <h4>
                             Site feito em React usando animações do GSAP 3 para
@@ -175,6 +180,7 @@ export default function Portfolio() {
                         <img
                             src="images/daviabrigade-tecnologias.png"
                             className="daviabrigade-tecnologias"
+                            alt="logo do react e gsap 3"
                         />
                         <div className="trivia-app-btn">
                             <a

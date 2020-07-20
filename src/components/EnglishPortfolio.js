@@ -79,6 +79,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia.png"
                             className="trivia-app-image"
+                            alt="trivia website with a logo on the center of page written trivia master and login and register button"
                         />
                         <h4>
                             Web Application with JWT authentication that
@@ -93,6 +94,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia-tecnologias.png"
                             className="trivia-app-tecnologias"
+                            alt="react, redux, mongodb, node and express logo"
                         />
                         <div className="trivia-app-btn">
                             <a
@@ -118,6 +120,7 @@ export default function Portfolio() {
                         <img
                             src="images/blog.png"
                             className="trivia-app-image"
+                            alt="blog home page with black background with green vector on middle of page and green login and register buttons"
                         />
                         <h4>
                             Web Application with JWT authentication where users
@@ -135,6 +138,7 @@ export default function Portfolio() {
                         <img
                             src="images/trivia-tecnologias.png"
                             className="trivia-app-tecnologias"
+                            alt="react, redux, mongodb, node and express logo"
                         />
                         <div className="trivia-app-btn">
                             <a
@@ -159,6 +163,7 @@ export default function Portfolio() {
                         <img
                             src="images/daviabrigade.png"
                             className="trivia-app-image"
+                            alt="publicity agency home page, there is a background with a lot of people on a reunion room and a text on the front that say davia and brigade."
                         />
                         <h4>
                             Site made with React and GSAP 3 animations, for a
@@ -174,6 +179,7 @@ export default function Portfolio() {
                         <img
                             src="images/daviabrigade-tecnologias.png"
                             className="daviabrigade-tecnologias"
+                            alt="react and gsap 3 logo."
                         />
                         <div className="trivia-app-btn">
                             <a
